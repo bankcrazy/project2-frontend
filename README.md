@@ -1,27 +1,9 @@
-# webboard
+# Project2 FRONTEND
 
-> A Vue.js project
+Members:
+  1. Channayu Pumpradub   5680963
+  2. Veeravit Harutaipree  5680374
 
-## Build Setup
+Hosted Project 2 VueJs (Frontend) on Github Pages [https://bankcrazy.github.io/project2-frontend/]
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Project 2 Rails Backend Repository [https://github.com/bankcrazy/project2-backend/]
